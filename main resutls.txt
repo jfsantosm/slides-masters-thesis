@@ -1,0 +1,84 @@
+## results  state-level 50pc
+
+meta- yes 
+narino- yes
+norte-santander- maybe
+
+all states- no
+high crime- no
+low crime- no  
+
+## results 30-70-pc-cct-states-level
+
+antioquia slight results
+boyaca no results
+cundinamrca no results
+santander no results
+narino no results
+tolima no results
+all states no results
+low crime no results
+high crime no results
+
+## results 30-70-pc-cct-states-level-fitlered
+mean abs gap
+
+antioquia no
+boyaca no
+cauca valle cauca slight reduction not significant
+choco no
+cordoba no
+cundi no
+narino  slight
+norte santander no
+santander no 
+
+all states no
+high crime no 
+low crime no
+
+
+good graph allstates_cgap_sd_less_than0.2_in_mean_abs_gap
+
+## results 30-70-pc-cct-regional-level
+
+andean slight  cgap_sd_less_than0.1_in_mean_gap__2050_over10000_20000_population 
+	bad	cgap_sd_less_than0.1_in_mean_gap__3070_over20000_population
+	yes	cgap_sd_less_than0.1_in_mean_gap_over10000_population
+	yes     cgap_sd_less_than0.5_in_mean_gap__3070_over10000_20000_population
+
+caribe no
+
+Colombia no
+
+pacifica  maybe  cgap_sd_less_than0.1_in_mean_gap__4060_10000_20000_people
+	yes 	cgap_sd_less_than0.1_in_mean_gap_over10000_people
+	yes	cgap_sd_less_than0.5_in_mean_gap__3070_over20000_people
+	maybe cgap_sd_less_than0.5_in_mean_gap__4060_10000_20000_people
+
+
+
+## results 30-70-pc-cct-regional-level filtered
+
+
+andean  no
+caribe	 no
+pacifica  yes cgap_sd_mean_abs_gap_less_than_0.1_15_85_
+	 yes 	cgap_sd_mean_abs_gap_less_than_0.1_45_55_
+	yes	cgap_sd_mean_abs_gap_less_than_0.2_40_60_
+	yes 	cgap_sd_mean_abs_gap_less_than_0.3_30_70_
+colombia no
+
+
+
+
+
+
+
+
+
+
+
+
+
+
