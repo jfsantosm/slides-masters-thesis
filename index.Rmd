@@ -54,7 +54,7 @@ class: center
 # Structure of the Dissertation
 
 
-<img src="figs/thesis_flow_chart.png" style="width: 75%" />
+<img src="figs/thesis_flow_chart.png" style="width: 70%" />
 
 ---
 # Chapter 1:  Exploration and convergence
@@ -150,12 +150,14 @@ class: center
 # Chapter 3: BMA - crime determinants
  212 variables (original and spatially lagged). **The significant determinants of homicides are **: 
 
-<img src="figs/bma.jpg" style="width: 65%"/>
+<img src="figs/bma.jpg" style="width: 60%"/>
 
 ---
 class:  center
-# The significant determinants are: 
-<img src="figs/determinants_crime.PNG" style="width: 85%"/>
+# Significant determinants of homicides: 
+
+## After running 2 million regressions...
+<img src="figs/determinants_crime.PNG" style="width: 100%"/>
 
 ---
 class: center
@@ -195,6 +197,11 @@ class:  center
 ]
 
 ## A t-test shows that the mean effect is statistically lower for the treatment group.
+---
+class: center
+# In just 15 minutes:
+
+<img src="figs/thesis_flow_chart.png" style="width: 70%" />
 ---
 
 class: center
