@@ -133,14 +133,14 @@ class: center, middle
 
 ---
 class: center
-# Spatial distribution- forecasted crime
+# Spatial distribution of forecasted crime
 **municipalities in dark green are lagging behind**
 
 <img src="figs/belo1822.png" style="width: 100%" />
 
 ---
 class: center
-# Distribution of the forecasted crime
+# Spatial distribution of forecasted crime
 **municipalities in dark green are lagging behind**
 
 <img src="figs/belo1822cc.png" style="width: 100%" />
